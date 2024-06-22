@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinterfaces=self.webpackChunkinterfaces||[]).push([[245],{783:function(e,t,n){n.r(t),n.d(t,{Head:function(){return c}});var a=n(159);t.default=()=>a.createElement("main",null,a.createElement("h1",{class:"font-mono p-6"},"Make interfaces."));const c=()=>a.createElement("title",null,"Make interfaces | ideyuta.com")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-48a2935fd2549b495f12.js.map
