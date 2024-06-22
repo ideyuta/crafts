@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcrafts=self.webpackChunkcrafts||[]).push([[245],{783:function(e,t,n){n.r(t),n.d(t,{Head:function(){return c}});var a=n(159);t.default=()=>a.createElement("main",null,a.createElement("h1",{class:"font-mono p-6"},"Make interfaces."));const c=()=>a.createElement("title",null,"crafts | ideyuta.com")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-98c65b9bd9efa3c0b69d.js.map
